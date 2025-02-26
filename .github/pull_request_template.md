@@ -1,7 +1,7 @@
 PR template from .github repo
 
 ## What
-_what the changes do_
+<!-- what the changes do -->
 
 ## Why
 _why we need the changes_
